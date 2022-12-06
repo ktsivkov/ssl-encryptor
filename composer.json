@@ -1,6 +1,6 @@
 {
   "name": "ktsivkov/ssl-encryptor",
-  "description": "Library for SSL generation and ecrypted communication",
+  "description": "Library for SSL generation and encrypted communication",
   "type": "library",
   "license": "MIT",
   "authors": [
