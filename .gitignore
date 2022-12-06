@@ -1,0 +1,6 @@
+vendor
+.idea
+.env
+composer.lock
+.phpunit.result.cache
+docker-compose.override.yml
